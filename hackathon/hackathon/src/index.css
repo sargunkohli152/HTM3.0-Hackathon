@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    canvas {
+        position: sticky;
+        left: 0;
+    }
+}
